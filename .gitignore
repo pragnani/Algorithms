@@ -1,0 +1,11 @@
+*.class
+bin/*
+.project
+.settings/*
+target/*
+*/target/*
+*/.settings/*
+*/.classpath
+.classpth
+.mvn/*
+*/.mvn/*
